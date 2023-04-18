@@ -1,4 +1,4 @@
-.website__link {
+.place__link {
   max-width: 456px;
   margin: 0;
   transition: 0.2 linear;
@@ -15,18 +15,18 @@
 
 /*for 768*/
 @media screen and (max-width: 768px) {
-    .website__link {
+    .place__link {
       max-width: 352px;
     }
   }
 
   /*for 450*/
 @media screen and (max-width: 450px) {
-    .website__link {
+    .place__link {
       max-width: 288px;
     }
   }
 
-.website__link:hover {
+.place__link:hover {
   opacity: 0.8;
 }

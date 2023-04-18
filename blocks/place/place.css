@@ -26,8 +26,8 @@
     }
   }
 
-  /*for 450*/
-@media screen and (max-width: 450px) {
+  /*for 480*/
+@media screen and (max-width: 480px) {
     .place {
         margin: 0 auto 50px;
         display: flex;

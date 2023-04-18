@@ -30,8 +30,8 @@
     }
   }
 
-  /*for 430*/
-@media screen and (max-width: 430px) {
+  /*for 480*/
+@media screen and (max-width: 480px) {
     .place__paragraph {
       max-width: 288px;
       margin: 0 0 25px 16px;

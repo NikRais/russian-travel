@@ -13,8 +13,8 @@
   color: #FFFFFF;
 }
 
-/*for 680*/
-@media screen and (max-width: 680px) {
+/*for 700*/
+@media screen and (max-width: 700px) {
   .lead__title {
     font-size: 12vw;
   }
