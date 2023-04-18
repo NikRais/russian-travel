@@ -17,10 +17,3 @@
         line-height: 109%;
     }
   }
-
-/*for 768
-@media screen and (max-width: 768px) {
-    .intro__title {
-        max-width: calc(100% - 24px*2);
-    }
-  }
